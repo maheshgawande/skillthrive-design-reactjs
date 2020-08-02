@@ -1,3 +1,13 @@
+:root {
+  --text-color: #eee;
+  --sub-text: #aaa;
+  --bg-color: #24263d;
+  --bg-accent: #343551;
+  --icon-active: #3199ee;
+  --icon-deactive: #757694;
+  --border-radius: 40px;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -16,4 +26,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  overflow-x: hidden;
 }

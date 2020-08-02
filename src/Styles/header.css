@@ -1,0 +1,51 @@
+.header-container {
+  height: 100%;
+  padding: 8px;
+  position: fixed;
+}
+
+header {
+  height: 100%;
+  padding: var(--border-radius) 10px;
+  margin-right: 5px;
+  background-color: var(--bg-accent);
+  border-radius: var(--border-radius);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  overflow-y: auto;
+}
+
+header > div {
+  padding: 10px;
+}
+
+/* main logo */
+.logo-container {
+  /* border: solid yellow 1px; */
+  padding: 20px;
+  margin-bottom: 20%;
+}
+
+.logo a {
+  /* border: solid #fff 1px; */
+  padding: 0px 16px;
+}
+
+/* header menu */
+.header-menu-container {
+  /* border: solid red 1px; */
+}
+
+header .button {
+  /* border: solid #fff 1px; */
+  margin: 4px 0;
+  padding: 16px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+header .button:hover,
+header .button:focus {
+  background-color: #47496e;
+}

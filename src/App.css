@@ -1,7 +1,28 @@
+/* a */
 a {
   text-decoration: none;
+  display: inline-block;
+  color: var(--text-color);
 }
 
+/* img */
 img {
   display: block;
+}
+
+/* ul */
+ul {
+  list-style: none;
+}
+
+main div {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* centering with flex */
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
