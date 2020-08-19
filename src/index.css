@@ -1,11 +1,14 @@
 :root {
   --text-color: #eee;
-  --sub-text: #aaa;
   --bg-color: #24263d;
   --bg-accent: #343551;
-  --icon-active: #3199ee;
-  --icon-deactive: #757694;
+  --active: #3199ee;
+  --deactive: #757694;
   --border-radius: 40px;
+  --h1: 28px;
+  --h2: 18px;
+  --subtitle-color: #aaa;
+  --subtitle-size: 14px;
 }
 
 * {

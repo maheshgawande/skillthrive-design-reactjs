@@ -1,0 +1,35 @@
+.main-header-container {
+  border: solid var(--subtitle-color) 1px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: var(--border-radius);
+}
+
+.header-title .title {
+  font-size: var(--h1);
+  padding: 2px 0;
+}
+
+.subtitle {
+  color: var(--subtitle-color);
+  font-size: var(--subtitle-size);
+}
+
+.stream-btn button {
+  padding: 8px 20px;
+  font-size: var(--subtitle-size);
+  font-weight: bold;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  background-color: var(--active);
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.stream-btn button i {
+  padding: 0 5px;
+}

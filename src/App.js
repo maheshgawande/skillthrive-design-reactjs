@@ -1,27 +1,26 @@
 import React from "react";
+import { Switch, Route, Redirect } from "react-router-dom";
 
 import Header from "Components/Layout/Header";
+import Main from "Components/Main";
+import Profile from "Components/Profile";
+import Settings from "Components/Settings";
 
 import "App.css";
+import "Styles/responsive.css";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <main>
-        <div>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime
-          nesciunt ab fuga modi molestias, eveniet sit distinctio aliquid neque
-          repellendus labore quae doloremque unde, soluta aut voluptas possimus
-          harum animi.
-        </div>
-        <div>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime
-          nesciunt ab fuga modi molestias, eveniet sit distinctio aliquid neque
-          repellendus labore quae doloremque unde, soluta aut voluptas possimus
-          harum animi.
-        </div>
-      </main>
+      <Switch>
+        <Route path="/" exact>
+          <Redirect to="/home" />
+        </Route>
+        <Route path="/home" component={Main} />
+        <Route path="/profile" component={Profile} />
+        <Route path="/settings" component={Settings} />
+      </Switch>
     </div>
   );
 }

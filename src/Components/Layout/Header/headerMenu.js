@@ -13,19 +13,25 @@ function headerMenu() {
     <div className="header-menu">
       <ul>
         <li>
-          <IconButton svgIcon={<HomeOutlinedIcon />} />
+          <IconButton svgIcon={<HomeOutlinedIcon />} toPath="/home" />
         </li>
         <li>
-          <IconButton svgIcon={<SearchOutlinedIcon />} />
+          <IconButton svgIcon={<SearchOutlinedIcon />} toPath="/search" />
         </li>
         <li>
-          <IconButton svgIcon={<PersonOutlineOutlinedIcon />} />
+          <IconButton
+            svgIcon={<PersonOutlineOutlinedIcon />}
+            toPath="/profile"
+          />
         </li>
         <li>
-          <IconButton svgIcon={<ChatBubbleOutlineOutlinedIcon />} />
+          <IconButton
+            svgIcon={<ChatBubbleOutlineOutlinedIcon />}
+            toPath="/chat"
+          />
         </li>
         <li>
-          <IconButton svgIcon={<SettingsOutlinedIcon />} />
+          <IconButton svgIcon={<SettingsOutlinedIcon />} toPath="/settings" />
         </li>
       </ul>
     </div>

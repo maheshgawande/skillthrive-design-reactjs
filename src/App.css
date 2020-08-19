@@ -1,8 +1,16 @@
+.App {
+  padding-left: 120px;
+}
+
+.App > div {
+  padding: 10px;
+}
+
 /* a */
 a {
   text-decoration: none;
   display: inline-block;
-  color: var(--text-color);
+  color: var(--deactive);
 }
 
 /* img */
@@ -25,4 +33,9 @@ main div {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/*  */
+.active {
+  color: var(--active);
 }

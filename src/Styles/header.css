@@ -1,18 +1,17 @@
-.header-container {
-  height: 100%;
-  padding: 8px;
+header {
+  height: 100vh;
+  padding: 6px;
+  display: flex;
   position: fixed;
+  top: 0;
+  left: 0;
 }
 
-header {
+.header-container {
   height: 100%;
-  padding: var(--border-radius) 10px;
-  margin-right: 5px;
+  padding: 10px 8px;
   background-color: var(--bg-accent);
   border-radius: var(--border-radius);
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
   overflow-y: auto;
 }
 
@@ -22,27 +21,19 @@ header > div {
 
 /* main logo */
 .logo-container {
-  /* border: solid yellow 1px; */
   padding: 20px;
-  margin-bottom: 20%;
+  margin-bottom: 20px;
 }
 
 .logo a {
-  /* border: solid #fff 1px; */
   padding: 0px 16px;
 }
 
 /* header menu */
-.header-menu-container {
-  /* border: solid red 1px; */
-}
-
 header .button {
-  /* border: solid #fff 1px; */
   margin: 4px 0;
   padding: 16px;
   border-radius: 4px;
-  transition: all 0.3s ease;
 }
 
 header .button:hover,

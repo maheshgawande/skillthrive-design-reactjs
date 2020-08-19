@@ -1,10 +1,11 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
-function button({ svgIcon }) {
+function button({ svgIcon, toPath }) {
   return (
-    <a href="#blank" className="button">
+    <NavLink to={toPath} className="button">
       <i className="icon">{svgIcon}</i>
-    </a>
+    </NavLink>
   );
 }
 
