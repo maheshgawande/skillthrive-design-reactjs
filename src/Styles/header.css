@@ -36,7 +36,6 @@ header .button {
   border-radius: 4px;
 }
 
-header .button:hover,
-header .button:focus {
-  background-color: #47496e;
+header .button:hover {
+  background-color: var(--hover-bg);
 }

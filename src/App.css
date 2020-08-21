@@ -1,5 +1,5 @@
 .App {
-  padding-left: 120px;
+  padding-left: 140px;
 }
 
 .App > div {
@@ -16,6 +16,11 @@ a {
 /* img */
 img {
   display: block;
+}
+
+/* icons */
+i {
+  display: inline-block;
 }
 
 /* ul */
