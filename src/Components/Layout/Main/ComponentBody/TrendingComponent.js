@@ -18,13 +18,11 @@ function TrendingComponent() {
   const vidRef = useRef();
 
   useEffect(() => {
+    function controlVid() {
+      playing ? vidRef.current.play() : vidRef.current.pause();
+    }
     controlVid();
   }, [playing]);
-
-  function controlVid() {
-    console.log(vidRef);
-    playing ? vidRef.current.play() : vidRef.current.pause();
-  }
 
   return (
     <div className="component trending">
