@@ -16,6 +16,8 @@ a {
 /* img */
 img {
   display: block;
+  width: 100%;
+  height: 100%;
 }
 
 /* icons */
@@ -40,7 +42,16 @@ main div {
   justify-content: center;
 }
 
-/*  */
+/* active */
 .active {
   color: var(--active);
+}
+
+/* toggle */
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
 }

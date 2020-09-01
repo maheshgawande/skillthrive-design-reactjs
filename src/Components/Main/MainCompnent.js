@@ -5,7 +5,7 @@ function MainComponent({ headerTitle, body }) {
   return (
     <div className="main-component">
       <ComponentHeader title={headerTitle} />
-      {body}
+      <div className="component-body-container">{body}</div>
     </div>
   );
 }

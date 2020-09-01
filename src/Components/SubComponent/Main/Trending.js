@@ -1,9 +1,11 @@
 import React from "react";
 
+import TrendingComponent from "Components/Layout/Main/ComponentBody/TrendingComponent";
+
 function Trending() {
   return (
-    <div>
-      <p>This is trending component</p>
+    <div className="component-body">
+      <TrendingComponent />
     </div>
   );
 }
