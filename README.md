@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 **Check out live demo [here](https://maheshgawande.github.io/skillthrive-design-reactjs/).**
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Available Scripts
 
