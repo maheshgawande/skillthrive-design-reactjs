@@ -5,6 +5,7 @@ import Header from "Components/Layout/Header";
 import Main from "Components/Main";
 import Profile from "Components/Profile";
 import Settings from "Components/Settings";
+import Error404 from "Components/Layout/Error404";
 
 import "App.css";
 import "Styles/responsive.css";
@@ -20,6 +21,7 @@ function App() {
         <Route path="/home" component={Main} />
         <Route path="/profile" component={Profile} />
         <Route path="/settings" component={Settings} />
+        <Route component={Error404} />
       </Switch>
     </div>
   );
