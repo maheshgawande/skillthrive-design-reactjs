@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/skillthrive-design-reactjs/static/css/main.8e0ada26.chunk.css",
-    "main.js": "/skillthrive-design-reactjs/static/js/main.ccd4f2b0.chunk.js",
-    "main.js.map": "/skillthrive-design-reactjs/static/js/main.ccd4f2b0.chunk.js.map",
+    "main.css": "/skillthrive-design-reactjs/static/css/main.86192951.chunk.css",
+    "main.js": "/skillthrive-design-reactjs/static/js/main.e3469e15.chunk.js",
+    "main.js.map": "/skillthrive-design-reactjs/static/js/main.e3469e15.chunk.js.map",
     "runtime-main.js": "/skillthrive-design-reactjs/static/js/runtime-main.26501d4a.js",
     "runtime-main.js.map": "/skillthrive-design-reactjs/static/js/runtime-main.26501d4a.js.map",
-    "static/js/2.d044913f.chunk.js": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js",
-    "static/js/2.d044913f.chunk.js.map": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js.map",
+    "static/js/2.a4300fa5.chunk.js": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js",
+    "static/js/2.a4300fa5.chunk.js.map": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js.map",
     "index.html": "/skillthrive-design-reactjs/index.html",
-    "precache-manifest.fa979d64e7f87fad16386ba475d30650.js": "/skillthrive-design-reactjs/precache-manifest.fa979d64e7f87fad16386ba475d30650.js",
+    "precache-manifest.85850d66f62b3a6b009d777571842702.js": "/skillthrive-design-reactjs/precache-manifest.85850d66f62b3a6b009d777571842702.js",
     "service-worker.js": "/skillthrive-design-reactjs/service-worker.js",
-    "static/css/main.8e0ada26.chunk.css.map": "/skillthrive-design-reactjs/static/css/main.8e0ada26.chunk.css.map",
-    "static/js/2.d044913f.chunk.js.LICENSE.txt": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js.LICENSE.txt",
+    "static/css/main.86192951.chunk.css.map": "/skillthrive-design-reactjs/static/css/main.86192951.chunk.css.map",
+    "static/js/2.a4300fa5.chunk.js.LICENSE.txt": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js.LICENSE.txt",
     "static/media/apex_legend.png": "/skillthrive-design-reactjs/static/media/apex_legend.d2da21e2.png",
     "static/media/avengers.png": "/skillthrive-design-reactjs/static/media/avengers.6970c789.png",
     "static/media/dota2.png": "/skillthrive-design-reactjs/static/media/dota2.654f9ead.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.26501d4a.js",
-    "static/js/2.d044913f.chunk.js",
-    "static/css/main.8e0ada26.chunk.css",
-    "static/js/main.ccd4f2b0.chunk.js"
+    "static/js/2.a4300fa5.chunk.js",
+    "static/css/main.86192951.chunk.css",
+    "static/js/main.e3469e15.chunk.js"
   ]
 }

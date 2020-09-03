@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9ffba1ec5f83a4f96df75f62f893b93",
+    "revision": "62c9c89ffa617c53347d3dd558f816a0",
     "url": "/skillthrive-design-reactjs/index.html"
   },
   {
-    "revision": "cd0692315d643c0c9991",
-    "url": "/skillthrive-design-reactjs/static/css/main.8e0ada26.chunk.css"
+    "revision": "910adb0fd0944d203f9c",
+    "url": "/skillthrive-design-reactjs/static/css/main.86192951.chunk.css"
   },
   {
-    "revision": "5659c01ea1fc8799cefd",
-    "url": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js"
+    "revision": "3328a8a19579457eb888",
+    "url": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js.LICENSE.txt"
+    "url": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd0692315d643c0c9991",
-    "url": "/skillthrive-design-reactjs/static/js/main.ccd4f2b0.chunk.js"
+    "revision": "910adb0fd0944d203f9c",
+    "url": "/skillthrive-design-reactjs/static/js/main.e3469e15.chunk.js"
   },
   {
     "revision": "5a606d922647eef62514",
