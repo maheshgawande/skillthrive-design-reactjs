@@ -79,10 +79,11 @@
   margin-top: 25px;
   padding: 10px 0;
   overflow: auto;
+  scrollbar-width: none;
 }
 
-::-webkit-scrollbar {
-  display: none; /*---Chrome and Safari*/
+.component-body-container::-webkit-scrollbar {
+  display: none;
 }
 
 .component-body {

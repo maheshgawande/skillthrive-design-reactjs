@@ -1,4 +1,5 @@
 import React from "react";
+
 import ComponentHeader from "Components/Layout/Main/ComponentHeader";
 
 function MainComponent({ headerTitle, body }) {

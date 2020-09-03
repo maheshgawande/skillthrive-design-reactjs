@@ -5,13 +5,6 @@ import PauseCircleFilled from "@material-ui/icons/PauseCircleFilled";
 
 import VideoSrc from "Assets/videos/video.mp4";
 
-const iconSize = {
-  largeIcon: {
-    width: 60,
-    height: 60,
-  },
-};
-
 function TrendingComponent() {
   const [playing, setPlaying] = useState(false);
   const [overlay, setOverlay] = useState(false);
@@ -19,6 +12,8 @@ function TrendingComponent() {
 
   useEffect(() => {
     function controlVid() {
+      vidRef.current.addEventListener("playing", () => setPlaying(true));
+      vidRef.current.addEventListener("pause", () => setPlaying(false));
       playing ? vidRef.current.play() : vidRef.current.pause();
     }
     controlVid();
@@ -50,5 +45,12 @@ function TrendingComponent() {
     </div>
   );
 }
+
+const iconSize = {
+  largeIcon: {
+    width: 60,
+    height: 60,
+  },
+};
 
 export default TrendingComponent;
