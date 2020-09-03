@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/skillthrive-design-reactjs/static/css/main.8e0ada26.chunk.css",
+    "main.js": "/skillthrive-design-reactjs/static/js/main.ccd4f2b0.chunk.js",
+    "main.js.map": "/skillthrive-design-reactjs/static/js/main.ccd4f2b0.chunk.js.map",
+    "runtime-main.js": "/skillthrive-design-reactjs/static/js/runtime-main.26501d4a.js",
+    "runtime-main.js.map": "/skillthrive-design-reactjs/static/js/runtime-main.26501d4a.js.map",
+    "static/js/2.d044913f.chunk.js": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js",
+    "static/js/2.d044913f.chunk.js.map": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js.map",
+    "index.html": "/skillthrive-design-reactjs/index.html",
+    "precache-manifest.fa979d64e7f87fad16386ba475d30650.js": "/skillthrive-design-reactjs/precache-manifest.fa979d64e7f87fad16386ba475d30650.js",
+    "service-worker.js": "/skillthrive-design-reactjs/service-worker.js",
+    "static/css/main.8e0ada26.chunk.css.map": "/skillthrive-design-reactjs/static/css/main.8e0ada26.chunk.css.map",
+    "static/js/2.d044913f.chunk.js.LICENSE.txt": "/skillthrive-design-reactjs/static/js/2.d044913f.chunk.js.LICENSE.txt",
+    "static/media/apex_legend.png": "/skillthrive-design-reactjs/static/media/apex_legend.d2da21e2.png",
+    "static/media/avengers.png": "/skillthrive-design-reactjs/static/media/avengers.6970c789.png",
+    "static/media/dota2.png": "/skillthrive-design-reactjs/static/media/dota2.654f9ead.png",
+    "static/media/fortnite.png": "/skillthrive-design-reactjs/static/media/fortnite.bd5886ec.png",
+    "static/media/god_of_war.png": "/skillthrive-design-reactjs/static/media/god_of_war.14705afd.png",
+    "static/media/lol.png": "/skillthrive-design-reactjs/static/media/lol.dd806833.png",
+    "static/media/overwatch.png": "/skillthrive-design-reactjs/static/media/overwatch.e881b154.png",
+    "static/media/pubg.png": "/skillthrive-design-reactjs/static/media/pubg.aa9db22b.png",
+    "static/media/valorant.png": "/skillthrive-design-reactjs/static/media/valorant.0cbba5e0.png",
+    "static/media/video.mp4": "/skillthrive-design-reactjs/static/media/video.da45f324.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26501d4a.js",
+    "static/js/2.d044913f.chunk.js",
+    "static/css/main.8e0ada26.chunk.css",
+    "static/js/main.ccd4f2b0.chunk.js"
+  ]
+}
