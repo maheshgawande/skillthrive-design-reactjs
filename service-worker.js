@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skillthrive-design-reactjs/precache-manifest.85850d66f62b3a6b009d777571842702.js"
+  "/skillthrive-design-reactjs/precache-manifest.c580c907548c34f15bc03e0187b905ca.js"
 );
 
 self.addEventListener('message', (event) => {

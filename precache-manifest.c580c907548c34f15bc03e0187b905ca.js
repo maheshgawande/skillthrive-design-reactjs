@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62c9c89ffa617c53347d3dd558f816a0",
+    "revision": "84692a004f9047528ebf41b864b9b10c",
     "url": "/skillthrive-design-reactjs/index.html"
   },
   {
-    "revision": "910adb0fd0944d203f9c",
+    "revision": "65f10b0f7cdcecb5bfb0",
     "url": "/skillthrive-design-reactjs/static/css/main.86192951.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "910adb0fd0944d203f9c",
-    "url": "/skillthrive-design-reactjs/static/js/main.e3469e15.chunk.js"
+    "revision": "65f10b0f7cdcecb5bfb0",
+    "url": "/skillthrive-design-reactjs/static/js/main.96427b9e.chunk.js"
   },
   {
     "revision": "5a606d922647eef62514",

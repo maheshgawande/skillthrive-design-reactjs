@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/skillthrive-design-reactjs/static/css/main.86192951.chunk.css",
-    "main.js": "/skillthrive-design-reactjs/static/js/main.e3469e15.chunk.js",
-    "main.js.map": "/skillthrive-design-reactjs/static/js/main.e3469e15.chunk.js.map",
+    "main.js": "/skillthrive-design-reactjs/static/js/main.96427b9e.chunk.js",
+    "main.js.map": "/skillthrive-design-reactjs/static/js/main.96427b9e.chunk.js.map",
     "runtime-main.js": "/skillthrive-design-reactjs/static/js/runtime-main.26501d4a.js",
     "runtime-main.js.map": "/skillthrive-design-reactjs/static/js/runtime-main.26501d4a.js.map",
     "static/js/2.a4300fa5.chunk.js": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js",
     "static/js/2.a4300fa5.chunk.js.map": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js.map",
     "index.html": "/skillthrive-design-reactjs/index.html",
-    "precache-manifest.85850d66f62b3a6b009d777571842702.js": "/skillthrive-design-reactjs/precache-manifest.85850d66f62b3a6b009d777571842702.js",
+    "precache-manifest.c580c907548c34f15bc03e0187b905ca.js": "/skillthrive-design-reactjs/precache-manifest.c580c907548c34f15bc03e0187b905ca.js",
     "service-worker.js": "/skillthrive-design-reactjs/service-worker.js",
     "static/css/main.86192951.chunk.css.map": "/skillthrive-design-reactjs/static/css/main.86192951.chunk.css.map",
     "static/js/2.a4300fa5.chunk.js.LICENSE.txt": "/skillthrive-design-reactjs/static/js/2.a4300fa5.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.26501d4a.js",
     "static/js/2.a4300fa5.chunk.js",
     "static/css/main.86192951.chunk.css",
-    "static/js/main.e3469e15.chunk.js"
+    "static/js/main.96427b9e.chunk.js"
   ]
 }
